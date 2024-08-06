@@ -1,0 +1,5 @@
+res://battle_scene.tscn
+res://Scenes/character.tscn
+res://Scripts/character.gd
+res://Scenes/battle_scene.tscn
+res://Scripts/Button.gd

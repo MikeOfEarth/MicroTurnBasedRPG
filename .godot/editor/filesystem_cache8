@@ -1,3 +1,564 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1722927234
+::res://::1722974783
 icon.svg::CompressedTexture2D::6987504868405090802::1722927230::1722927234::1::::<><>::
+battle_scene.tscn::PackedScene::6706600882585180147::1722974783::0::1::::<><>::uid://cusuasq7f1w8p::::res://Sprites/Characters(100x100)/Soldier/Soldier/Soldier.png
+::res://Scenes/::1722927624
+character.tscn::PackedScene::4471155673671257195::1722974827::0::1::::<><>::uid://cusuasq7f1w8p::::res://Sprites/Characters(100x100)/Soldier/Soldier/Soldier.png
+::res://Scripts/::1722927619
+::res://Sprites/::1722929469
+::res://Sprites/Arrow(Projectile)/::1722973556
+Arrow01(32x32).png::CompressedTexture2D::6062367079214582788::1722929469::1722973556::1::::<><>::
+Arrow01(100x100).png::CompressedTexture2D::57199536663112882::1722929469::1722973556::1::::<><>::
+Arrow02(32x32).png::CompressedTexture2D::1718791832423669715::1722929469::1722973556::1::::<><>::
+Arrow02(100x100).png::CompressedTexture2D::2353720808247869770::1722929469::1722973556::1::::<><>::
+Arrow03(32x32).png::CompressedTexture2D::8303385342579675686::1722929469::1722973556::1::::<><>::
+Arrow03(100x100).png::CompressedTexture2D::8531883046583723796::1722929469::1722973556::1::::<><>::
+::res://Sprites/Aseprite file/::1722929470
+::res://Sprites/Characters(100x100)/::1722929469
+::res://Sprites/Characters(100x100)/Archer/::1722929463
+::res://Sprites/Characters(100x100)/Archer/Archer/::1722973556
+Archer-Attack01.png::CompressedTexture2D::1104347774906962116::1722929462::1722973556::1::::<><>::
+Archer-Attack02.png::CompressedTexture2D::8514339333890810905::1722929462::1722973556::1::::<><>::
+Archer-Death.png::CompressedTexture2D::6823519210773660606::1722929462::1722973556::1::::<><>::
+Archer-Hurt.png::CompressedTexture2D::547089269185314657::1722929462::1722973556::1::::<><>::
+Archer-Idle.png::CompressedTexture2D::3826248233419721463::1722929462::1722973556::1::::<><>::
+Archer-Walk.png::CompressedTexture2D::7482563108802322562::1722929462::1722973556::1::::<><>::
+Archer.png::CompressedTexture2D::3769899094420007070::1722929462::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Archer/Archer/Shadow sprites/::1722973556
+Archer-Shadow.png::CompressedTexture2D::8685177090486497133::1722929462::1722973556::1::::<><>::
+Archer-Shadow_death.png::CompressedTexture2D::2855872788692635721::1722929462::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Archer/Archer with shadows/::1722973556
+Archer-Attack01.png::CompressedTexture2D::2784625293463533520::1722929462::1722973556::1::::<><>::
+Archer-Attack02.png::CompressedTexture2D::2726977875950159333::1722929462::1722973556::1::::<><>::
+Archer-Death.png::CompressedTexture2D::8444944506591704814::1722929462::1722973556::1::::<><>::
+Archer-Hurt.png::CompressedTexture2D::3768542493516901226::1722929463::1722973556::1::::<><>::
+Archer-Idle.png::CompressedTexture2D::8251258553135692318::1722929463::1722973556::1::::<><>::
+Archer-Walk.png::CompressedTexture2D::7699984800390717482::1722929463::1722973556::1::::<><>::
+Archer.png::CompressedTexture2D::2904010515955553868::1722929463::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Archer/Archer(Split Effects)/::1722973556
+Archer-Attack01_Effect.png::CompressedTexture2D::6400251230170177941::1722929463::1722973556::1::::<><>::
+Archer-Attack02_Effect.png::CompressedTexture2D::5825697877969855906::1722929463::1722973556::1::::<><>::
+Archer.png::CompressedTexture2D::6498444984165377826::1722929463::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Archer/Arrow(projectile)/::1722973556
+Arrow02(32x32).png::CompressedTexture2D::6012498678657733478::1722929463::1722973556::1::::<><>::
+Arrow02(100x100).png::CompressedTexture2D::4811132164562569371::1722929463::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Armored Axeman/::1722929463
+::res://Sprites/Characters(100x100)/Armored Axeman/Armored Axeman/::1722973556
+Armored Axeman-Attack01.png::CompressedTexture2D::7827633515878065316::1722929463::1722973556::1::::<><>::
+Armored Axeman-Attack02.png::CompressedTexture2D::4315780792318052385::1722929463::1722973556::1::::<><>::
+Armored Axeman-Attack03.png::CompressedTexture2D::3741468586524443392::1722929463::1722973556::1::::<><>::
+Armored Axeman-Death.png::CompressedTexture2D::2715883922490737368::1722929463::1722973556::1::::<><>::
+Armored Axeman-Hurt.png::CompressedTexture2D::124111945268883644::1722929463::1722973556::1::::<><>::
+Armored Axeman-Idle.png::CompressedTexture2D::4111053521659959899::1722929463::1722973556::1::::<><>::
+Armored Axeman-Walk.png::CompressedTexture2D::4204874174941631928::1722929463::1722973556::1::::<><>::
+Armored Axeman.png::CompressedTexture2D::3841926046106694106::1722929463::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Armored Axeman/Armored Axeman/Shadow sprites/::1722973556
+Armored Axeman-Shadow.png::CompressedTexture2D::2215332990552262143::1722929463::1722973556::1::::<><>::
+Armored Axeman-Shadow_attack02.png::CompressedTexture2D::2505743982832433856::1722929463::1722973556::1::::<><>::
+Armored Axeman-Shadow_death.png::CompressedTexture2D::8636849295521563617::1722929463::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Armored Axeman/Armored Axeman with shadows/::1722973556
+Armored Axeman-Attack01.png::CompressedTexture2D::2423696707047966770::1722929463::1722973556::1::::<><>::
+Armored Axeman-Attack02.png::CompressedTexture2D::5214805268785861902::1722929463::1722973556::1::::<><>::
+Armored Axeman-Attack03.png::CompressedTexture2D::5131045832299715930::1722929463::1722973556::1::::<><>::
+Armored Axeman-Death.png::CompressedTexture2D::7076691065743146375::1722929463::1722973556::1::::<><>::
+Armored Axeman-Hurt.png::CompressedTexture2D::41431811316865500::1722929463::1722973556::1::::<><>::
+Armored Axeman-Idle.png::CompressedTexture2D::4358775404284693714::1722929463::1722973556::1::::<><>::
+Armored Axeman-Walk.png::CompressedTexture2D::6913626637109765359::1722929463::1722973556::1::::<><>::
+Armored Axeman.png::CompressedTexture2D::9046248982781963541::1722929463::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Armored Axeman/Armored Axeman(Split Effects)/::1722973556
+Armored Axeman-Attack01_Effect.png::CompressedTexture2D::8052341952111584951::1722929463::1722973556::1::::<><>::
+Armored Axeman-Attack02_Effect.png::CompressedTexture2D::9043554905250848943::1722929463::1722973556::1::::<><>::
+Armored Axeman-Attack03_Effect.png::CompressedTexture2D::7879874027655699578::1722929463::1722973556::1::::<><>::
+Armored Axeman.png::CompressedTexture2D::7302310845134608685::1722929463::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Armored Orc/::1722929463
+::res://Sprites/Characters(100x100)/Armored Orc/Armored Orc/::1722973556
+Armored Orc-Attack01.png::CompressedTexture2D::1116207427024620430::1722929463::1722973556::1::::<><>::
+Armored Orc-Attack02.png::CompressedTexture2D::5988648542421056282::1722929463::1722973556::1::::<><>::
+Armored Orc-Attack03.png::CompressedTexture2D::877405399801916869::1722929463::1722973556::1::::<><>::
+Armored Orc-Block.png::CompressedTexture2D::8749331034471964060::1722929463::1722973556::1::::<><>::
+Armored Orc-Death.png::CompressedTexture2D::1975371817935517852::1722929463::1722973556::1::::<><>::
+Armored Orc-Hurt.png::CompressedTexture2D::8652280637610788485::1722929463::1722973555::1::::<><>::
+Armored Orc-Idle.png::CompressedTexture2D::387296570846406825::1722929463::1722973555::1::::<><>::
+Armored Orc-Walk.png::CompressedTexture2D::4588504499011141559::1722929463::1722973555::1::::<><>::
+Armored Orc.png::CompressedTexture2D::5903383292696557166::1722929463::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Armored Orc/Armored Orc/Shadow sprites/::1722973556
+Armored Orc-Shadow.png::CompressedTexture2D::4934531737109277798::1722929463::1722973556::1::::<><>::
+Armored Orc-Shadow_death.png::CompressedTexture2D::6543844154327069310::1722929463::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Armored Orc/Armored Orc with shadows/::1722973556
+Armored Orc-Attack01.png::CompressedTexture2D::5303839813631755764::1722929463::1722973555::1::::<><>::
+Armored Orc-Attack02.png::CompressedTexture2D::511092433070583894::1722929463::1722973555::1::::<><>::
+Armored Orc-Attack03.png::CompressedTexture2D::4759378177012925790::1722929463::1722973555::1::::<><>::
+Armored Orc-Block.png::CompressedTexture2D::5383630260918604376::1722929463::1722973556::1::::<><>::
+Armored Orc-Death.png::CompressedTexture2D::7092296673567800969::1722929463::1722973555::1::::<><>::
+Armored Orc-Hurt.png::CompressedTexture2D::5624816974765609334::1722929463::1722973555::1::::<><>::
+Armored Orc-Idle.png::CompressedTexture2D::3800934083813693905::1722929463::1722973555::1::::<><>::
+Armored Orc-Walk.png::CompressedTexture2D::1992957913435844440::1722929463::1722973555::1::::<><>::
+Armored Orc.png::CompressedTexture2D::5047865355949390182::1722929463::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Armored Orc/Armored Orc(Split Effects)/::1722973555
+Armored Orc-Attack01_Effect.png::CompressedTexture2D::8758390845622488864::1722929463::1722973555::1::::<><>::
+Armored Orc-Attack02_Effect.png::CompressedTexture2D::2774357880831907462::1722929463::1722973555::1::::<><>::
+Armored Orc-Attack03_Effect.png::CompressedTexture2D::5913354465828730823::1722929463::1722973555::1::::<><>::
+Armored Orc.png::CompressedTexture2D::3623297581643318180::1722929463::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Armored Skeleton/::1722929464
+::res://Sprites/Characters(100x100)/Armored Skeleton/Armored Skeleton/::1722973555
+Armored Skeleton-Attack01.png::CompressedTexture2D::8748263734933439395::1722929463::1722973555::1::::<><>::
+Armored Skeleton-Attack02.png::CompressedTexture2D::8215034507149298392::1722929463::1722973555::1::::<><>::
+Armored Skeleton-Death.png::CompressedTexture2D::2680278974055887197::1722929463::1722973555::1::::<><>::
+Armored Skeleton-Hurt.png::CompressedTexture2D::5579622937875129926::1722929463::1722973555::1::::<><>::
+Armored Skeleton-Idle.png::CompressedTexture2D::4928417808466657830::1722929463::1722973555::1::::<><>::
+Armored Skeleton-Walk.png::CompressedTexture2D::390095776654488413::1722929463::1722973555::1::::<><>::
+Armored Skeleton.png::CompressedTexture2D::3664551513065216034::1722929463::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Armored Skeleton/Armored Skeleton/Shadow sprites/::1722973555
+Armored Skeleton-Shadow.png::CompressedTexture2D::5892005587056057670::1722929463::1722973555::1::::<><>::
+Armored Skeleton-Shadow_death.png::CompressedTexture2D::7920405581523080634::1722929464::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Armored Skeleton/Armored Skeleton with shadows/::1722973556
+Armored Skeleton-Attack01.png::CompressedTexture2D::2324875324901261187::1722929464::1722973555::1::::<><>::
+Armored Skeleton-Attack02.png::CompressedTexture2D::1648332437014617760::1722929464::1722973556::1::::<><>::
+Armored Skeleton-Death.png::CompressedTexture2D::1771337116977570837::1722929464::1722973556::1::::<><>::
+Armored Skeleton-Hurt.png::CompressedTexture2D::8074345761297529485::1722929464::1722973556::1::::<><>::
+Armored Skeleton-Idle.png::CompressedTexture2D::8173230385247873093::1722929464::1722973556::1::::<><>::
+Armored Skeleton-Walk.png::CompressedTexture2D::8489242780597548335::1722929464::1722973556::1::::<><>::
+Armored Skeleton.png::CompressedTexture2D::9023106009670911861::1722929464::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Armored Skeleton/Armored Skeleton(Split Effects)/::1722973556
+Armored Skeleton-Attack01_Effect.png::CompressedTexture2D::8167406070333064273::1722929464::1722973556::1::::<><>::
+Armored Skeleton-Attack02_Effect.png::CompressedTexture2D::5801466894017784140::1722929464::1722973556::1::::<><>::
+Armored Skeleton.png::CompressedTexture2D::1352735238368131324::1722929464::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Elite Orc/::1722929464
+::res://Sprites/Characters(100x100)/Elite Orc/Elite Orc/::1722973556
+Elite Orc-Attack01.png::CompressedTexture2D::1291361620695469280::1722929464::1722973556::1::::<><>::
+Elite Orc-Attack02.png::CompressedTexture2D::725248503102779820::1722929464::1722973556::1::::<><>::
+Elite Orc-Attack03.png::CompressedTexture2D::6792306211942884450::1722929464::1722973556::1::::<><>::
+Elite Orc-Death.png::CompressedTexture2D::6654595078249495163::1722929464::1722973556::1::::<><>::
+Elite Orc-Hurt.png::CompressedTexture2D::7512907966058470445::1722929464::1722973556::1::::<><>::
+Elite Orc-Idle.png::CompressedTexture2D::7908249250143590662::1722929464::1722973556::1::::<><>::
+Elite Orc-Walk.png::CompressedTexture2D::7085984457907196242::1722929464::1722973556::1::::<><>::
+Elite Orc.png::CompressedTexture2D::3773742024672579634::1722929464::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Elite Orc/Elite Orc/Shadow sprites/::1722973556
+Elite Orc-Shadow.png::CompressedTexture2D::5492490195453856010::1722929464::1722973556::1::::<><>::
+Elite Orc-Shadow_attack03.png::CompressedTexture2D::1103193795912391181::1722929464::1722973556::1::::<><>::
+Elite Orc-Shadow_death.png::CompressedTexture2D::7172132339192122252::1722929464::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Elite Orc/Elite Orc with shadows/::1722973556
+Elite Orc-Attack01.png::CompressedTexture2D::99205449914491389::1722929464::1722973556::1::::<><>::
+Elite Orc-Attack02.png::CompressedTexture2D::1378154839071950294::1722929464::1722973556::1::::<><>::
+Elite Orc-Attack03.png::CompressedTexture2D::164771494623220723::1722929464::1722973556::1::::<><>::
+Elite Orc-Death.png::CompressedTexture2D::6837598296047678507::1722929464::1722973556::1::::<><>::
+Elite Orc-Hurt.png::CompressedTexture2D::4665856988871084198::1722929464::1722973556::1::::<><>::
+Elite Orc-Idle.png::CompressedTexture2D::8540394509914429627::1722929464::1722973556::1::::<><>::
+Elite Orc-Walk.png::CompressedTexture2D::7362414267419014115::1722929464::1722973555::1::::<><>::
+Elite Orc.png::CompressedTexture2D::8263469464275291100::1722929464::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Elite Orc/Elite Orc(Split Effects)/::1722973557
+Elite Orc-Attack01_Effect.png::CompressedTexture2D::4484100575988376584::1722929464::1722973556::1::::<><>::
+Elite Orc-Attack02_Effect.png::CompressedTexture2D::1103499916073430740::1722929464::1722973556::1::::<><>::
+Elite Orc-Attack03_Effect.png::CompressedTexture2D::1117252736763438531::1722929464::1722973556::1::::<><>::
+Elite Orc.png::CompressedTexture2D::2926398951858643600::1722929464::1722973557::1::::<><>::
+::res://Sprites/Characters(100x100)/Greatsword Skeleton/::1722929464
+::res://Sprites/Characters(100x100)/Greatsword Skeleton/Greatsword Skeleton/::1722973557
+Greatsword Skeleton-Attack01.png::CompressedTexture2D::5557283080814658042::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton-Attack02.png::CompressedTexture2D::7208678006910338637::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton-Attack03.png::CompressedTexture2D::3611813376413695938::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton-Death.png::CompressedTexture2D::846090834704158069::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton-Hurt.png::CompressedTexture2D::455765761626594845::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton-Idle.png::CompressedTexture2D::289093221750104696::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton-Walk.png::CompressedTexture2D::7524536084760701866::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton.png::CompressedTexture2D::7192447521591028796::1722929464::1722973557::1::::<><>::
+::res://Sprites/Characters(100x100)/Greatsword Skeleton/Greatsword Skeleton/Shadow sprites/::1722973556
+Greatsword Skeleton-shadow.png::CompressedTexture2D::4820884622202111935::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton-shadow_death.png::CompressedTexture2D::2565033529987922498::1722929464::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Greatsword Skeleton/Greatsword Skeleton with shadows/::1722973556
+Greatsword Skeleton-Attack01.png::CompressedTexture2D::6404700744457160430::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton-Attack02.png::CompressedTexture2D::6796361182357268766::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton-Attack03.png::CompressedTexture2D::4400861912774076486::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton-Death.png::CompressedTexture2D::9195298796602968428::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton-Hurt.png::CompressedTexture2D::3730390029699882855::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton-Idle.png::CompressedTexture2D::8069450858034121195::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton-Walk.png::CompressedTexture2D::2188784683930935550::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton.png::CompressedTexture2D::7283080739041815487::1722929464::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Greatsword Skeleton/Greatsword Skeleton(Split Effects)/::1722973557
+Greatsword Skeleton-Attack01_Effect.png::CompressedTexture2D::2759936262323575337::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton-Attack02_Effect.png::CompressedTexture2D::3602720758066072928::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton-Attack03_Effect.png::CompressedTexture2D::4926398446943147703::1722929464::1722973556::1::::<><>::
+Greatsword Skeleton.png::CompressedTexture2D::1567533340893811461::1722929464::1722973557::1::::<><>::
+::res://Sprites/Characters(100x100)/Knight/::1722929465
+::res://Sprites/Characters(100x100)/Knight/Knight/::1722973557
+Knight-Attack01.png::CompressedTexture2D::8166682165346622844::1722929464::1722973557::1::::<><>::
+Knight-Attack02.png::CompressedTexture2D::4792019950457240120::1722929464::1722973557::1::::<><>::
+Knight-Attack03.png::CompressedTexture2D::7022284415291312301::1722929464::1722973557::1::::<><>::
+Knight-Block.png::CompressedTexture2D::707024429926054214::1722929464::1722973557::1::::<><>::
+Knight-Death.png::CompressedTexture2D::3938742485207805354::1722929464::1722973557::1::::<><>::
+Knight-Hurt.png::CompressedTexture2D::4608650895086752608::1722929464::1722973557::1::::<><>::
+Knight-Idle.png::CompressedTexture2D::465376134951905043::1722929464::1722973557::1::::<><>::
+Knight-Walk.png::CompressedTexture2D::1044299669275871230::1722929465::1722973557::1::::<><>::
+Knight.png::CompressedTexture2D::898529380801373964::1722929465::1722973557::1::::<><>::
+::res://Sprites/Characters(100x100)/Knight/Knight/Shadow sprites/::1722973556
+Knight-Shadow.png::CompressedTexture2D::3489629859091567403::1722929465::1722973556::1::::<><>::
+Knight-Shadow_death.png::CompressedTexture2D::8438675410683617918::1722929465::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Knight/Knight with shadows/::1722973557
+Knight-Attack01.png::CompressedTexture2D::4044930475212331888::1722929465::1722973557::1::::<><>::
+Knight-Attack02.png::CompressedTexture2D::5104326427531046314::1722929465::1722973557::1::::<><>::
+Knight-Attack03.png::CompressedTexture2D::7160085685975337203::1722929465::1722973557::1::::<><>::
+Knight-Block.png::CompressedTexture2D::2396274720667786116::1722929465::1722973557::1::::<><>::
+Knight-Death.png::CompressedTexture2D::2501641750923172387::1722929465::1722973557::1::::<><>::
+Knight-Hurt.png::CompressedTexture2D::6817017462461442997::1722929465::1722973557::1::::<><>::
+Knight-Idle.png::CompressedTexture2D::3634957592735390884::1722929465::1722973557::1::::<><>::
+Knight-Walk.png::CompressedTexture2D::484599078148444847::1722929465::1722973557::1::::<><>::
+Knight.png::CompressedTexture2D::1293326944816093593::1722929465::1722973557::1::::<><>::
+::res://Sprites/Characters(100x100)/Knight/Knight(Split Effects)/::1722973557
+Knight-Attack01_Effect.png::CompressedTexture2D::5725776652864181440::1722929465::1722973557::1::::<><>::
+Knight-Attack02_Effect.png::CompressedTexture2D::7245856115973579371::1722929465::1722973557::1::::<><>::
+Knight-Attack03_Effect.png::CompressedTexture2D::5107309775028912225::1722929465::1722973557::1::::<><>::
+Knight.png::CompressedTexture2D::509688983538286285::1722929465::1722973557::1::::<><>::
+::res://Sprites/Characters(100x100)/Knight Templar/::1722929465
+::res://Sprites/Characters(100x100)/Knight Templar/Knight Templar/::1722973557
+Knight Templar-Attack01.png::CompressedTexture2D::7720180311794739264::1722929465::1722973557::1::::<><>::
+Knight Templar-Attack02.png::CompressedTexture2D::1015310761683495848::1722929465::1722973557::1::::<><>::
+Knight Templar-Attack03.png::CompressedTexture2D::1105985614516939125::1722929465::1722973557::1::::<><>::
+Knight Templar-Block.png::CompressedTexture2D::359493439061138556::1722929465::1722973556::1::::<><>::
+Knight Templar-Death.png::CompressedTexture2D::6282524901732695858::1722929465::1722973556::1::::<><>::
+Knight Templar-Hurt.png::CompressedTexture2D::5660637156653103547::1722929465::1722973556::1::::<><>::
+Knight Templar-Idle.png::CompressedTexture2D::1847475604814190091::1722929465::1722973556::1::::<><>::
+Knight Templar-Walk01.png::CompressedTexture2D::5661905998487009127::1722929465::1722973556::1::::<><>::
+Knight Templar-Walk02.png::CompressedTexture2D::4604118931056632660::1722929465::1722973556::1::::<><>::
+Knight Templar.png::CompressedTexture2D::2789137877539748538::1722929465::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Knight Templar/Knight Templar/Shadow sprites/::1722973557
+Knight Templar-Shadow.png::CompressedTexture2D::8630288048328493272::1722929465::1722973557::1::::<><>::
+::res://Sprites/Characters(100x100)/Knight Templar/Knight Templar with shadows/::1722973556
+Knight Templar-Attack01.png::CompressedTexture2D::6190405670658534153::1722929465::1722973556::1::::<><>::
+Knight Templar-Attack02.png::CompressedTexture2D::4048567127916819862::1722929465::1722973556::1::::<><>::
+Knight Templar-Attack03.png::CompressedTexture2D::2390738076506613981::1722929465::1722973556::1::::<><>::
+Knight Templar-Block.png::CompressedTexture2D::8229668962376092202::1722929465::1722973556::1::::<><>::
+Knight Templar-Death.png::CompressedTexture2D::5437831595795096281::1722929465::1722973556::1::::<><>::
+Knight Templar-Hurt.png::CompressedTexture2D::7448285224091825667::1722929465::1722973556::1::::<><>::
+Knight Templar-Idle.png::CompressedTexture2D::3842357177458652714::1722929465::1722973556::1::::<><>::
+Knight Templar-Walk01.png::CompressedTexture2D::6763612054412268177::1722929465::1722973556::1::::<><>::
+Knight Templar-Walk02.png::CompressedTexture2D::2401111188642055318::1722929465::1722973556::1::::<><>::
+Knight Templar.png::CompressedTexture2D::536914065086616726::1722929465::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Knight Templar/Knight Templar(Split Effects)/::1722973556
+Knight Templar-Attack01_Effect.png::CompressedTexture2D::6317785136835605532::1722929465::1722973556::1::::<><>::
+Knight Templar-Attack02_Effect.png::CompressedTexture2D::2002006186586593888::1722929465::1722973556::1::::<><>::
+Knight Templar-Attack03_Effect.png::CompressedTexture2D::464696502831428269::1722929465::1722973556::1::::<><>::
+Knight Templar.png::CompressedTexture2D::6286602034800246650::1722929465::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Lancer/::1722929466
+::res://Sprites/Characters(100x100)/Lancer/Lancer/::1722973556
+Lancer-Attack01.png::CompressedTexture2D::5469664888967466168::1722929465::1722973556::1::::<><>::
+Lancer-Attack02.png::CompressedTexture2D::6072701735869845484::1722929465::1722973556::1::::<><>::
+Lancer-Attack03.png::CompressedTexture2D::350396030717275603::1722929465::1722973556::1::::<><>::
+Lancer-Death.png::CompressedTexture2D::3790620170727128586::1722929465::1722973556::1::::<><>::
+Lancer-Hurt.png::CompressedTexture2D::1384289874127444545::1722929465::1722973556::1::::<><>::
+Lancer-Idle.png::CompressedTexture2D::4720720009991143730::1722929465::1722973556::1::::<><>::
+Lancer-Walk01.png::CompressedTexture2D::526094579482852389::1722929465::1722973556::1::::<><>::
+Lancer-Walk02.png::CompressedTexture2D::6374060062724335355::1722929465::1722973556::1::::<><>::
+Lancer.png::CompressedTexture2D::7046158597932998912::1722929465::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Lancer/Lancer/Shadow sprites/::1722973556
+Lancer-Shadow.png::CompressedTexture2D::2379040548667644357::1722929465::1722973556::1::::<><>::
+Lancer-Shadow_death.png::CompressedTexture2D::5677862358013599618::1722929465::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Lancer/Lancer with shadows/::1722973556
+Lancer-Attack01.png::CompressedTexture2D::4311940145331596501::1722929465::1722973556::1::::<><>::
+Lancer-Attack02.png::CompressedTexture2D::7104451860509628521::1722929465::1722973556::1::::<><>::
+Lancer-Attack03.png::CompressedTexture2D::4634136367255002677::1722929465::1722973556::1::::<><>::
+Lancer-Death.png::CompressedTexture2D::5349692091802121255::1722929465::1722973556::1::::<><>::
+Lancer-Hurt.png::CompressedTexture2D::4765814732605303986::1722929465::1722973556::1::::<><>::
+Lancer-Idle.png::CompressedTexture2D::2539232186719132350::1722929465::1722973556::1::::<><>::
+Lancer-Walk01.png::CompressedTexture2D::6062921049627140806::1722929465::1722973556::1::::<><>::
+Lancer-Walk02.png::CompressedTexture2D::8527827472069284599::1722929465::1722973556::1::::<><>::
+Lancer.png::CompressedTexture2D::1830307465518116527::1722929465::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Lancer/Lancer(Split Effects)/::1722973556
+Lancer-Attack01_Effect.png::CompressedTexture2D::7755601932833015962::1722929466::1722973556::1::::<><>::
+Lancer-Attack02_Effect.png::CompressedTexture2D::3541018513810571221::1722929466::1722973556::1::::<><>::
+Lancer-Attack03_Effect.png::CompressedTexture2D::5699509190265071706::1722929466::1722973556::1::::<><>::
+Lancer.png::CompressedTexture2D::2483986997356129918::1722929466::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Orc/::1722929466
+::res://Sprites/Characters(100x100)/Orc/Orc/::1722973556
+Orc-Attack01.png::CompressedTexture2D::5107122325078315691::1722929466::1722973556::1::::<><>::
+Orc-Attack02.png::CompressedTexture2D::7891659102913864296::1722929466::1722973556::1::::<><>::
+Orc-Death.png::CompressedTexture2D::9167326312892595248::1722929466::1722973556::1::::<><>::
+Orc-Hurt.png::CompressedTexture2D::1110471620755645256::1722929466::1722973556::1::::<><>::
+Orc-Idle.png::CompressedTexture2D::4552732308504372419::1722929466::1722973556::1::::<><>::
+Orc-Walk.png::CompressedTexture2D::5500311203058280671::1722929466::1722973556::1::::<><>::
+Orc.png::CompressedTexture2D::6645447774901308567::1722929466::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Orc/Orc/Shadow sprites/::1722973556
+Orc-shadow.png::CompressedTexture2D::4445501927150359076::1722929466::1722973556::1::::<><>::
+Orc-shadow_attack02.png::CompressedTexture2D::8390592670635833000::1722929466::1722973556::1::::<><>::
+Orc-shadow_death.png::CompressedTexture2D::5319717013117098687::1722929466::1722973556::1::::<><>::
+::res://Sprites/Characters(100x100)/Orc/Orc with shadows/::1722973556
+Orc-Attack01.png::CompressedTexture2D::3930059124173395097::1722929466::1722973556::1::::<><>::
+Orc-Attack02.png::CompressedTexture2D::6951227585308741916::1722929466::1722973556::1::::<><>::
+Orc-Death.png::CompressedTexture2D::2519304488022413044::1722929466::1722973556::1::::<><>::
+Orc-Hurt.png::CompressedTexture2D::3377684212810467599::1722929466::1722973555::1::::<><>::
+Orc-Idle.png::CompressedTexture2D::9002762769066817155::1722929466::1722973555::1::::<><>::
+Orc-Walk.png::CompressedTexture2D::7197103523647511690::1722929466::1722973555::1::::<><>::
+Orc.png::CompressedTexture2D::2923507868199920716::1722929466::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Orc/Orc(Split Effects)/::1722973555
+Orc-attack01_Effect.png::CompressedTexture2D::6353335209834920013::1722929466::1722973555::1::::<><>::
+Orc-attack02_Effect.png::CompressedTexture2D::3299632656865473691::1722929466::1722973555::1::::<><>::
+Orc.png::CompressedTexture2D::6643202736623900120::1722929466::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Orc rider/::1722929466
+::res://Sprites/Characters(100x100)/Orc rider/Orc rider/::1722973555
+Orc rider-Attack01.png::CompressedTexture2D::7900758967404369282::1722929466::1722973555::1::::<><>::
+Orc rider-Attack02.png::CompressedTexture2D::183033952036092264::1722929466::1722973555::1::::<><>::
+Orc rider-Attack03.png::CompressedTexture2D::7066512724561367237::1722929466::1722973555::1::::<><>::
+Orc rider-Block.png::CompressedTexture2D::2315047334245061851::1722929466::1722973555::1::::<><>::
+Orc rider-Death.png::CompressedTexture2D::3970005189123509143::1722929466::1722973555::1::::<><>::
+Orc rider-Hurt.png::CompressedTexture2D::5582329139535901089::1722929466::1722973555::1::::<><>::
+Orc rider-Idle.png::CompressedTexture2D::5114547940660740100::1722929466::1722973555::1::::<><>::
+Orc rider-Walk.png::CompressedTexture2D::6937446903562765716::1722929466::1722973555::1::::<><>::
+Orc rider.png::CompressedTexture2D::6163079784391981301::1722929466::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Orc rider/Orc rider/Shadow sprites/::1722973555
+Orc rider-shadow.png::CompressedTexture2D::9051603938166563630::1722929466::1722973555::1::::<><>::
+Orc rider-shadow_death.png::CompressedTexture2D::7550521738551245780::1722929466::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Orc rider/Orc rider with shadows/::1722973555
+Orc rider-Attack01.png::CompressedTexture2D::8510291881394413971::1722929466::1722973555::1::::<><>::
+Orc rider-Attack02.png::CompressedTexture2D::5086652396996673634::1722929466::1722973555::1::::<><>::
+Orc rider-Attack03.png::CompressedTexture2D::7131457332175279801::1722929466::1722973555::1::::<><>::
+Orc rider-Block.png::CompressedTexture2D::3618625299980220334::1722929466::1722973555::1::::<><>::
+Orc rider-Death.png::CompressedTexture2D::6998830635565035226::1722929466::1722973555::1::::<><>::
+Orc rider-Hurt.png::CompressedTexture2D::6454045066156129500::1722929466::1722973555::1::::<><>::
+Orc rider-Idle.png::CompressedTexture2D::7824799963357330840::1722929466::1722973555::1::::<><>::
+Orc rider-Walk.png::CompressedTexture2D::8889481773394339938::1722929466::1722973555::1::::<><>::
+Orc rider.png::CompressedTexture2D::2832998556553082355::1722929466::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Orc rider/Orc rider(Split Effects)/::1722973555
+Orc rider-Attack01_Effect.png::CompressedTexture2D::4254566471876864016::1722929466::1722973555::1::::<><>::
+Orc rider-Attack02_Effect.png::CompressedTexture2D::5834186771511991156::1722929466::1722973555::1::::<><>::
+Orc rider-Attack03_Effect.png::CompressedTexture2D::462687218115011009::1722929466::1722973555::1::::<><>::
+Orc rider.png::CompressedTexture2D::6213382865764716007::1722929466::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Priest/::1722929467
+::res://Sprites/Characters(100x100)/Priest/Magic(projectile)/::1722973555
+Priest-Attack_Effect.png::CompressedTexture2D::680049079052432658::1722929466::1722973555::1::::<><>::
+Priest-Heal_Effect.png::CompressedTexture2D::3146842784878737846::1722929466::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Priest/Priest/::1722973555
+Priest-Attack.png::CompressedTexture2D::474104491214169462::1722929466::1722973555::1::::<><>::
+Priest-Death.png::CompressedTexture2D::3419391620304031875::1722929466::1722973555::1::::<><>::
+Priest-Heal.png::CompressedTexture2D::3389778559425585877::1722929466::1722973555::1::::<><>::
+Priest-Hurt.png::CompressedTexture2D::4325910566424159954::1722929466::1722973555::1::::<><>::
+Priest-Idle.png::CompressedTexture2D::3870166178752390106::1722929466::1722973555::1::::<><>::
+Priest-Walk.png::CompressedTexture2D::3678049674113022788::1722929466::1722973555::1::::<><>::
+Priest.png::CompressedTexture2D::7609034761814163848::1722929466::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Priest/Priest/Shadow sprites/::1722973555
+Priest-Shadow.png::CompressedTexture2D::4866790333101262802::1722929466::1722973555::1::::<><>::
+Priest-Shadow_death.png::CompressedTexture2D::597473961859843602::1722929466::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Priest/Priest with shadows/::1722973555
+Priest-Attack.png::CompressedTexture2D::907008892507185835::1722929466::1722973555::1::::<><>::
+Priest-Death.png::CompressedTexture2D::8455905923529940553::1722929466::1722973555::1::::<><>::
+Priest-Heal.png::CompressedTexture2D::392479449642525994::1722929466::1722973555::1::::<><>::
+Priest-Hurt.png::CompressedTexture2D::7934398278697255489::1722929467::1722973555::1::::<><>::
+Priest-Idle.png::CompressedTexture2D::1925885080120039393::1722929467::1722973555::1::::<><>::
+Priest-Walk.png::CompressedTexture2D::8861942842105971068::1722929467::1722973555::1::::<><>::
+Priest.png::CompressedTexture2D::5307131498591087481::1722929467::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Priest/Priest(Split Effects)/::1722973555
+Priest-Attack_Effect.png::CompressedTexture2D::3476836120025774902::1722929467::1722973555::1::::<><>::
+Priest-Heal_Effect.png::CompressedTexture2D::2444019345488368095::1722929467::1722973555::1::::<><>::
+Priest.png::CompressedTexture2D::7691336657663172608::1722929467::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Skeleton/::1722929467
+::res://Sprites/Characters(100x100)/Skeleton/Skeleton/::1722973555
+Skeleton-Attack01.png::CompressedTexture2D::6420809104532188236::1722929467::1722973555::1::::<><>::
+Skeleton-Attack02.png::CompressedTexture2D::5386161388504635466::1722929467::1722973555::1::::<><>::
+Skeleton-Block.png::CompressedTexture2D::7053181081997082799::1722929467::1722973554::1::::<><>::
+Skeleton-Death.png::CompressedTexture2D::23237965810180952::1722929467::1722973554::1::::<><>::
+Skeleton-Hurt.png::CompressedTexture2D::99899372634356543::1722929467::1722973554::1::::<><>::
+Skeleton-Idle.png::CompressedTexture2D::8296331496472188596::1722929467::1722973554::1::::<><>::
+Skeleton-Walk.png::CompressedTexture2D::8216928968053700697::1722929467::1722973554::1::::<><>::
+Skeleton.png::CompressedTexture2D::3544292613338538860::1722929467::1722973554::1::::<><>::
+::res://Sprites/Characters(100x100)/Skeleton/Skeleton/Shadow sprites/::1722973555
+Skeleton-Shadow.png::CompressedTexture2D::6484347727092597523::1722929467::1722973555::1::::<><>::
+Skeleton-Shadow_death.png::CompressedTexture2D::2168820532079726189::1722929467::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Skeleton/Skeleton with shadows/::1722973554
+Skeleton-Attack01.png::CompressedTexture2D::582016557944669202::1722929467::1722973554::1::::<><>::
+Skeleton-Attack02.png::CompressedTexture2D::4680914054394140735::1722929467::1722973554::1::::<><>::
+Skeleton-Block.png::CompressedTexture2D::6446724723816078540::1722929467::1722973554::1::::<><>::
+Skeleton-Death.png::CompressedTexture2D::3861191836440814621::1722929467::1722973554::1::::<><>::
+Skeleton-Hurt.png::CompressedTexture2D::8150132359655377711::1722929467::1722973554::1::::<><>::
+Skeleton-Idle.png::CompressedTexture2D::8694087085880801137::1722929467::1722973554::1::::<><>::
+Skeleton-Walk.png::CompressedTexture2D::7819480413364433441::1722929467::1722973554::1::::<><>::
+Skeleton.png::CompressedTexture2D::6384289384871401605::1722929467::1722973554::1::::<><>::
+::res://Sprites/Characters(100x100)/Skeleton/Skeleton(Split Effects)/::1722973554
+Skeleton-Attack01_Effect.png::CompressedTexture2D::583201692873344932::1722929467::1722973554::1::::<><>::
+Skeleton-Attack02_Effect.png::CompressedTexture2D::5186896389468814513::1722929467::1722973554::1::::<><>::
+Skeleton.png::CompressedTexture2D::4744865218554798181::1722929467::1722973554::1::::<><>::
+::res://Sprites/Characters(100x100)/Skeleton Archer/::1722929467
+::res://Sprites/Characters(100x100)/Skeleton Archer/Arrow(projectile)/::1722973554
+Arrow03(32x32).png::CompressedTexture2D::7584258106020047643::1722929467::1722973554::1::::<><>::
+Arrow03(100x100).png::CompressedTexture2D::4590015121544429862::1722929467::1722973554::1::::<><>::
+::res://Sprites/Characters(100x100)/Skeleton Archer/Skeleton Archer/::1722973554
+Skeleton Archer-Attack.png::CompressedTexture2D::4278710023440773474::1722929467::1722973554::1::::<><>::
+Skeleton Archer-Death.png::CompressedTexture2D::7350226527592175617::1722929467::1722973554::1::::<><>::
+Skeleton Archer-Hurt.png::CompressedTexture2D::3871366709043080432::1722929467::1722973554::1::::<><>::
+Skeleton Archer-Idle.png::CompressedTexture2D::2935883693818622300::1722929467::1722973554::1::::<><>::
+Skeleton Archer-Walk.png::CompressedTexture2D::8141875050043468845::1722929467::1722973554::1::::<><>::
+Skeleton Archer.png::CompressedTexture2D::4886113343552942833::1722929467::1722973554::1::::<><>::
+::res://Sprites/Characters(100x100)/Skeleton Archer/Skeleton Archer/Shadow sprites/::1722973554
+Skeleton Archer-shadow.png::CompressedTexture2D::3421612309678603964::1722929467::1722973554::1::::<><>::
+Skeleton Archer-shadow_death.png::CompressedTexture2D::7698395260672733613::1722929467::1722973554::1::::<><>::
+::res://Sprites/Characters(100x100)/Skeleton Archer/Skeleton Archer with shadows/::1722973555
+Skeleton Archer-Attack.png::CompressedTexture2D::2590585557233765673::1722929467::1722973555::1::::<><>::
+Skeleton Archer-Death.png::CompressedTexture2D::5157461080694306989::1722929467::1722973555::1::::<><>::
+Skeleton Archer-Hurt.png::CompressedTexture2D::2223887069017632139::1722929467::1722973555::1::::<><>::
+Skeleton Archer-Idle.png::CompressedTexture2D::2453652490994528718::1722929467::1722973555::1::::<><>::
+Skeleton Archer-Walk.png::CompressedTexture2D::7970302516587662782::1722929467::1722973555::1::::<><>::
+Skeleton Archer.png::CompressedTexture2D::1988065313860543082::1722929467::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Skeleton Archer/Skeleton Archer(Split Effects)/::1722973555
+Skeleton Archer-Attack_Effect.png::CompressedTexture2D::6421047491764107265::1722929467::1722973555::1::::<><>::
+Skeleton Archer.png::CompressedTexture2D::4614497591288075310::1722929467::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Slime/::1722929467
+::res://Sprites/Characters(100x100)/Slime/Slime/::1722973555
+Slime-Attack01.png::CompressedTexture2D::5399037592606422097::1722929467::1722973554::1::::<><>::
+Slime-Attack02.png::CompressedTexture2D::8373674842113445842::1722929467::1722973554::1::::<><>::
+Slime-Death.png::CompressedTexture2D::7078041523926641058::1722929467::1722973554::1::::<><>::
+Slime-Hurt.png::CompressedTexture2D::1213258058155010463::1722929467::1722973554::1::::<><>::
+Slime-Idle.png::CompressedTexture2D::3125078506655598040::1722929467::1722973554::1::::<><>::
+Slime-Walk.png::CompressedTexture2D::5525206638773160891::1722929467::1722973554::1::::<><>::
+Slime.png::CompressedTexture2D::4259276948784129587::1722929467::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Slime/Slime/Shadow sprites/::1722973555
+Slime-Shadow.png::CompressedTexture2D::3928927848633437061::1722929467::1722973555::1::::<><>::
+Slime-Shadow_walk.png::CompressedTexture2D::97842893222010922::1722929467::1722973554::1::::<><>::
+::res://Sprites/Characters(100x100)/Slime/Slime with shadows/::1722973555
+Slime-Attack01.png::CompressedTexture2D::4152659295401039869::1722929467::1722973554::1::::<><>::
+Slime-Attack02.png::CompressedTexture2D::1314341932464732945::1722929467::1722973554::1::::<><>::
+Slime-Death.png::CompressedTexture2D::6213743106863725902::1722929467::1722973554::1::::<><>::
+Slime-Hurt.png::CompressedTexture2D::1164997878182227785::1722929467::1722973554::1::::<><>::
+Slime-Idle.png::CompressedTexture2D::6995140840236424471::1722929467::1722973554::1::::<><>::
+Slime-Walk.png::CompressedTexture2D::8287912353404595520::1722929467::1722973554::1::::<><>::
+Slime.png::CompressedTexture2D::1270414305617321779::1722929467::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Slime/Slime(Split Effects)/::1722973554
+Slime-Attack01_Effect.png::CompressedTexture2D::1958086232269273781::1722929467::1722973554::1::::<><>::
+Slime-Attack02_Effect.png::CompressedTexture2D::6203135802383699034::1722929468::1722973554::1::::<><>::
+Slime.png::CompressedTexture2D::7623744713117662754::1722929468::1722973554::1::::<><>::
+::res://Sprites/Characters(100x100)/Soldier/::1722929468
+::res://Sprites/Characters(100x100)/Soldier/Arrow(projectile)/::1722973555
+Arrow01(32x32).png::CompressedTexture2D::5662358264057380738::1722929468::1722973554::1::::<><>::
+Arrow01(100x100).png::CompressedTexture2D::1032305341021132001::1722929468::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Soldier/Soldier/::1722973555
+Soldier-Attack01.png::CompressedTexture2D::3654435950483065064::1722929468::1722973555::1::::<><>::
+Soldier-Attack02.png::CompressedTexture2D::2072621706798261218::1722929468::1722973555::1::::<><>::
+Soldier-Attack03.png::CompressedTexture2D::8291823983530147332::1722929468::1722973555::1::::<><>::
+Soldier-Death.png::CompressedTexture2D::5077317672937797283::1722929468::1722973555::1::::<><>::
+Soldier-Hurt.png::CompressedTexture2D::20092945623228795::1722929468::1722973555::1::::<><>::
+Soldier-Idle.png::CompressedTexture2D::5371461328219926072::1722929468::1722973555::1::::<><>::
+Soldier-Shadow_attack2.png::CompressedTexture2D::8595375268629247126::1722929468::1722973555::1::::<><>::
+Soldier-Walk.png::CompressedTexture2D::7048130795347009960::1722929468::1722973555::1::::<><>::
+Soldier.png::CompressedTexture2D::6214992351174092009::1722929468::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Soldier/Soldier/Shadow sprites/::1722973555
+Soldier-Shadow.png::CompressedTexture2D::8314521580551581950::1722929468::1722973555::1::::<><>::
+Soldier-Shadow_death.png::CompressedTexture2D::4480171322432641205::1722929468::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Soldier/Soldier with shadows/::1722973555
+Soldier-Attack01.png::CompressedTexture2D::441183872950420105::1722929468::1722973555::1::::<><>::
+Soldier-Attack02.png::CompressedTexture2D::2068262614492991049::1722929468::1722973555::1::::<><>::
+Soldier-Attack03.png::CompressedTexture2D::373659369507631621::1722929468::1722973555::1::::<><>::
+Soldier-Death.png::CompressedTexture2D::1235410279797901626::1722929468::1722973555::1::::<><>::
+Soldier-Hurt.png::CompressedTexture2D::778600726871867078::1722929468::1722973555::1::::<><>::
+Soldier-Idle.png::CompressedTexture2D::4865119534485659922::1722929468::1722973555::1::::<><>::
+Soldier-Walk.png::CompressedTexture2D::3819876632463623579::1722929468::1722973555::1::::<><>::
+Soldier.png::CompressedTexture2D::7177493972738862083::1722929468::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Soldier/Soldier(Split Effects)/::1722973555
+Soldier-Attack01_Effect.png::CompressedTexture2D::679885117617340149::1722929468::1722973555::1::::<><>::
+Soldier-Attack02_Effect.png::CompressedTexture2D::1985087395459222459::1722929468::1722973555::1::::<><>::
+Soldier-Attack03_Effect.png::CompressedTexture2D::604579232377827306::1722929468::1722973555::1::::<><>::
+Soldier.png::CompressedTexture2D::7283695892134882529::1722929468::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Swordsman/::1722929468
+::res://Sprites/Characters(100x100)/Swordsman/Swordsman/::1722973555
+Swordsman-Attack01.png::CompressedTexture2D::345829055467273688::1722929468::1722973555::1::::<><>::
+Swordsman-Attack02.png::CompressedTexture2D::4579312245747513366::1722929468::1722973555::1::::<><>::
+Swordsman-Attack3.png::CompressedTexture2D::7197379938195503853::1722929468::1722973555::1::::<><>::
+Swordsman-Death.png::CompressedTexture2D::2411711423253166365::1722929468::1722973555::1::::<><>::
+Swordsman-Hurt.png::CompressedTexture2D::4833224356151702533::1722929468::1722973555::1::::<><>::
+Swordsman-Idle.png::CompressedTexture2D::268307857205793768::1722929468::1722973555::1::::<><>::
+Swordsman-Walk.png::CompressedTexture2D::1932541304841755602::1722929468::1722973555::1::::<><>::
+Swordsman.png::CompressedTexture2D::3740488979516130152::1722929468::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Swordsman/Swordsman/Shadow sprites/::1722973555
+Swordsman-Shadow.png::CompressedTexture2D::6507287020280206370::1722929468::1722973555::1::::<><>::
+Swordsman-Shadow_death.png::CompressedTexture2D::4536734828826119490::1722929468::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Swordsman/Swordsman with shadows/::1722973555
+Swordsman-Attack01.png::CompressedTexture2D::2120720116258402216::1722929468::1722973555::1::::<><>::
+Swordsman-Attack02.png::CompressedTexture2D::3453531885511387883::1722929468::1722973555::1::::<><>::
+Swordsman-Attack3.png::CompressedTexture2D::7057302663591046942::1722929468::1722973555::1::::<><>::
+Swordsman-Death.png::CompressedTexture2D::3531423194528141971::1722929468::1722973555::1::::<><>::
+Swordsman-Hurt.png::CompressedTexture2D::842837078058958674::1722929468::1722973555::1::::<><>::
+Swordsman-Idle.png::CompressedTexture2D::1470210666457625166::1722929468::1722973555::1::::<><>::
+Swordsman-Walk.png::CompressedTexture2D::4601440178208467652::1722929468::1722973555::1::::<><>::
+Swordsman.png::CompressedTexture2D::2298097721322480292::1722929468::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Swordsman/Swordsman(Split Effects)/::1722973555
+Swordsman-Attack01_Effect.png::CompressedTexture2D::1890860683669369131::1722929468::1722973555::1::::<><>::
+Swordsman-Attack02_Effect.png::CompressedTexture2D::4580628006829237034::1722929468::1722973555::1::::<><>::
+Swordsman-Attack3_Effect.png::CompressedTexture2D::4954579594338102218::1722929468::1722973555::1::::<><>::
+Swordsman.png::CompressedTexture2D::219389336226899749::1722929468::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Werebear/::1722929469
+::res://Sprites/Characters(100x100)/Werebear/Werebear/::1722973555
+Werebear-Attack01.png::CompressedTexture2D::8319455456822891308::1722929468::1722973555::1::::<><>::
+Werebear-Attack02.png::CompressedTexture2D::8682700224343052181::1722929468::1722973555::1::::<><>::
+Werebear-Attack03.png::CompressedTexture2D::8867108689622500408::1722929468::1722973555::1::::<><>::
+Werebear-Death.png::CompressedTexture2D::7113625689973320309::1722929468::1722973555::1::::<><>::
+Werebear-Hurt.png::CompressedTexture2D::1267073632089236947::1722929468::1722973555::1::::<><>::
+Werebear-Idle.png::CompressedTexture2D::2138214893725958705::1722929468::1722973555::1::::<><>::
+Werebear-Walk.png::CompressedTexture2D::7139687608705242179::1722929468::1722973555::1::::<><>::
+Werebear.png::CompressedTexture2D::7517228732463386817::1722929468::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Werebear/Werebear/shadow sprites/::1722973555
+Werebear-shadow.png::CompressedTexture2D::4852978802880099405::1722929468::1722973555::1::::<><>::
+Werebear-shadow_death.png::CompressedTexture2D::3892700973146860479::1722929468::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Werebear/Werebear with shadows/::1722973555
+Werebear-Attack01.png::CompressedTexture2D::5875609541048883233::1722929468::1722973555::1::::<><>::
+Werebear-Attack02.png::CompressedTexture2D::5362671877504594676::1722929468::1722973555::1::::<><>::
+Werebear-Attack03.png::CompressedTexture2D::7886368037195075576::1722929468::1722973555::1::::<><>::
+Werebear-Death.png::CompressedTexture2D::4090933656332287178::1722929468::1722973555::1::::<><>::
+Werebear-Hurt.png::CompressedTexture2D::3773065191808745193::1722929468::1722973555::1::::<><>::
+Werebear-Idle.png::CompressedTexture2D::5033519326082909193::1722929468::1722973555::1::::<><>::
+Werebear-Walk.png::CompressedTexture2D::2971997118701244878::1722929469::1722973555::1::::<><>::
+Werebear.png::CompressedTexture2D::8571528373157228936::1722929469::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Werebear/Werebear(Split Effects)/::1722973555
+Werebear-Attack01_Effect.png::CompressedTexture2D::873514353344939904::1722929469::1722973555::1::::<><>::
+Werebear-Attack02_Effect.png::CompressedTexture2D::4415062894375992893::1722929469::1722973555::1::::<><>::
+Werebear-Attack03_Effect.png::CompressedTexture2D::5515841623447287584::1722929469::1722973555::1::::<><>::
+Werebear.png::CompressedTexture2D::5516817155619756543::1722929469::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Werewolf/::1722929469
+::res://Sprites/Characters(100x100)/Werewolf/Werewolf/::1722973555
+Werewolf-Attack01.png::CompressedTexture2D::5918068021838080170::1722929469::1722973555::1::::<><>::
+Werewolf-Attack02.png::CompressedTexture2D::7939808503816725339::1722929469::1722973555::1::::<><>::
+Werewolf-Death.png::CompressedTexture2D::4859852724858652343::1722929469::1722973555::1::::<><>::
+Werewolf-Hurt.png::CompressedTexture2D::2288680749280141087::1722929469::1722973555::1::::<><>::
+Werewolf-Idle.png::CompressedTexture2D::1416427172665902169::1722929469::1722973555::1::::<><>::
+Werewolf-Walk.png::CompressedTexture2D::9196727338527241585::1722929469::1722973555::1::::<><>::
+Werewolf.png::CompressedTexture2D::5271883559250550899::1722929469::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Werewolf/Werewolf/shadow sprites/::1722973555
+Werewolf-shadow.png::CompressedTexture2D::7667817702333449221::1722929469::1722973555::1::::<><>::
+Werewolf-shadow_death.png::CompressedTexture2D::5236685430706136327::1722929469::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Werewolf/Werewolf with shadows/::1722973555
+Werewolf-Attack01.png::CompressedTexture2D::3414808921266610132::1722929469::1722973555::1::::<><>::
+Werewolf-Attack02.png::CompressedTexture2D::6938266195542936484::1722929469::1722973555::1::::<><>::
+Werewolf-Death.png::CompressedTexture2D::4698634033370969188::1722929469::1722973555::1::::<><>::
+Werewolf-Hurt.png::CompressedTexture2D::6636414341636933423::1722929469::1722973555::1::::<><>::
+Werewolf-Idle.png::CompressedTexture2D::2358967637816238007::1722929469::1722973555::1::::<><>::
+Werewolf-Walk.png::CompressedTexture2D::2556314557214411263::1722929469::1722973555::1::::<><>::
+Werewolf.png::CompressedTexture2D::5090727957841104506::1722929469::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Werewolf/Werewolf(Split Effects)/::1722973555
+Werewolf-Attack01_Effect.png::CompressedTexture2D::8657058427812222715::1722929469::1722973555::1::::<><>::
+Werewolf-Attack02_Effect.png::CompressedTexture2D::9114465576982799405::1722929469::1722973555::1::::<><>::
+Werewolf.png::CompressedTexture2D::8030137603283441089::1722929469::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Wizard/::1722929469
+::res://Sprites/Characters(100x100)/Wizard/Magic(projectile)/::1722973555
+Wizard-Attack01_Effect.png::CompressedTexture2D::1869145213639237649::1722929469::1722973555::1::::<><>::
+Wizard-Attack02_Effect.png::CompressedTexture2D::5619521653616915866::1722929469::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Wizard/Wizard/::1722973555
+Wizard-Attack01.png::CompressedTexture2D::1776307977093174877::1722929469::1722973555::1::::<><>::
+Wizard-Attack02.png::CompressedTexture2D::6191776550708966238::1722929469::1722973555::1::::<><>::
+Wizard-DEATH.png::CompressedTexture2D::1547531477808498584::1722929469::1722973555::1::::<><>::
+Wizard-Hurt.png::CompressedTexture2D::2775176044155463654::1722929469::1722973555::1::::<><>::
+Wizard-Idle.png::CompressedTexture2D::4042617894874682963::1722929469::1722973555::1::::<><>::
+Wizard-Walk.png::CompressedTexture2D::1738667713361698789::1722929469::1722973555::1::::<><>::
+Wizard.png::CompressedTexture2D::966412366485150946::1722929469::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Wizard/Wizard/Shadow sprites/::1722973555
+Wizard-Shadow.png::CompressedTexture2D::4001286899376172560::1722929469::1722973555::1::::<><>::
+Wizard-Shadow_death.png::CompressedTexture2D::4036421364605751806::1722929469::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Wizard/Wizard with shadows/::1722973555
+Wizard-Attack01.png::CompressedTexture2D::3813578415823281796::1722929469::1722973555::1::::<><>::
+Wizard-Attack02.png::CompressedTexture2D::1931928314728653095::1722929469::1722973555::1::::<><>::
+Wizard-DEATH.png::CompressedTexture2D::1178779498997302155::1722929469::1722973555::1::::<><>::
+Wizard-Hurt.png::CompressedTexture2D::6192515094125413261::1722929469::1722973555::1::::<><>::
+Wizard-Idle.png::CompressedTexture2D::8768717492980490235::1722929469::1722973555::1::::<><>::
+Wizard-Walk.png::CompressedTexture2D::5200679317518624276::1722929469::1722973555::1::::<><>::
+Wizard.png::CompressedTexture2D::7996402948309118757::1722929469::1722973555::1::::<><>::
+::res://Sprites/Characters(100x100)/Wizard/Wizard(Split Effects)/::1722973555
+Wizard-Attack01_Effect.png::CompressedTexture2D::5754898953719914753::1722929469::1722973555::1::::<><>::
+Wizard-Attack02_Effect.png::CompressedTexture2D::6535399697860080996::1722929469::1722973555::1::::<><>::
+Wizard.png::CompressedTexture2D::7282663937072669717::1722929469::1722973555::1::::<><>::
+::res://Sprites/Magic(Projectile)/::1722973555
+Priest-Attack_effect.png::CompressedTexture2D::4767791215469149968::1722929469::1722973555::1::::<><>::
+Priest-Heal_Effect.png::CompressedTexture2D::229994559923603287::1722929469::1722973555::1::::<><>::
+Wizard-Attack01_Effect.png::CompressedTexture2D::5723096848070288659::1722929469::1722973555::1::::<><>::
+Wizard-Attack02_Effect.png::CompressedTexture2D::1241322284143224359::1722929469::1722973555::1::::<><>::
