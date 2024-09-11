@@ -1,10 +1,84 @@
-[gd_scene load_steps=2 format=3 uid="uid://c2sy0bu3y8jjv"]
+[gd_scene load_steps=10 format=3 uid="uid://c2sy0bu3y8jjv"]
 
 [ext_resource type="PackedScene" uid="uid://b4x4jsqxkxnhr" path="res://Scenes/character.tscn" id="1_5t37j"]
+[ext_resource type="Script" path="res://Scripts/TurnManager.gd" id="1_n8h3f"]
+[ext_resource type="Texture2D" uid="uid://c2xualsk1pky4" path="res://Combat Actions/walk.jpg" id="2_xa178"]
+[ext_resource type="Resource" uid="uid://h8b86r4bf268" path="res://Combat Actions/slash.tres" id="3_hp7vo"]
+[ext_resource type="SpriteFrames" uid="uid://bryikjxwto6b2" path="res://Frames/skeleton.tres" id="3_wii67"]
+[ext_resource type="Resource" uid="uid://ftnmfyxh3ix7" path="res://Combat Actions/heal.tres" id="4_f5tic"]
+[ext_resource type="Resource" uid="uid://jgbxwvn5rflb" path="res://Combat Actions/stomp.tres" id="5_dtwxs"]
+[ext_resource type="Script" path="res://Scripts/PlayerUI.gd" id="7_c0s4y"]
+[ext_resource type="Script" path="res://Scripts/combatActionButton.gd" id="7_egw5w"]
 
-[node name="BattleScene" type="Node2D"]
+[node name="BattleScene" type="Node2D" node_paths=PackedStringArray("player_char", "enemy_char")]
+script = ExtResource("1_n8h3f")
+player_char = NodePath("Character")
+enemy_char = NodePath("Character2")
 
-[node name="Character" parent="." instance=ExtResource("1_5t37j")]
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="TextureRect" type="TextureRect" parent="Control"]
+layout_mode = 0
+offset_left = -1778.0
+offset_top = -494.0
+offset_right = 481.0
+offset_bottom = 249.0
+texture = ExtResource("2_xa178")
+
+[node name="Character" parent="." node_paths=PackedStringArray("opponent") instance=ExtResource("1_5t37j")]
+position = Vector2(-237, 0)
+is_player = true
+cur_hp = 25
+combat_actions = [ExtResource("3_hp7vo"), ExtResource("4_f5tic"), ExtResource("5_dtwxs")]
+opponent = NodePath("../Character2")
+
+[node name="Character2" parent="." node_paths=PackedStringArray("opponent") instance=ExtResource("1_5t37j")]
+position = Vector2(186, 0)
+cur_hp = 25
+combat_actions = [ExtResource("4_f5tic"), ExtResource("3_hp7vo")]
+opponent = NodePath("../Character")
+visual = ExtResource("3_wii67")
 
 [node name="Camera2D" type="Camera2D" parent="."]
 zoom = Vector2(1.5, 1.5)
+
+[node name="PlayerCombatUI" type="VBoxContainer" parent="."]
+offset_left = -332.0
+offset_top = 72.0
+offset_right = -156.0
+offset_bottom = 185.0
+script = ExtResource("7_c0s4y")
+buttons = [NodePath("CombatAction"), NodePath("CombatAction2"), NodePath("CombatAction3"), NodePath("CombatAction4")]
+
+[node name="CombatAction" type="Button" parent="PlayerCombatUI"]
+visible = false
+layout_mode = 2
+text = "Slash (5 DMG)"
+script = ExtResource("7_egw5w")
+
+[node name="CombatAction2" type="Button" parent="PlayerCombatUI"]
+visible = false
+layout_mode = 2
+text = "Slash (5 DMG)"
+script = ExtResource("7_egw5w")
+
+[node name="CombatAction3" type="Button" parent="PlayerCombatUI"]
+visible = false
+layout_mode = 2
+text = "Slash (5 DMG)"
+script = ExtResource("7_egw5w")
+
+[node name="CombatAction4" type="Button" parent="PlayerCombatUI"]
+visible = false
+layout_mode = 2
+text = "Slash (5 DMG)"
+script = ExtResource("7_egw5w")
+
+[connection signal="pressed" from="PlayerCombatUI/CombatAction" to="PlayerCombatUI/CombatAction" method="_on_pressed"]
+[connection signal="pressed" from="PlayerCombatUI/CombatAction2" to="PlayerCombatUI/CombatAction2" method="_on_pressed"]
+[connection signal="pressed" from="PlayerCombatUI/CombatAction3" to="PlayerCombatUI/CombatAction3" method="_on_pressed"]
+[connection signal="pressed" from="PlayerCombatUI/CombatAction4" to="PlayerCombatUI/CombatAction4" method="_on_pressed"]

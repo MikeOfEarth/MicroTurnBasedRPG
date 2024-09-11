@@ -1,10 +1,24 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1722974783
+::res://::1726016983
+combat_actions.gd::GDScript::-1::1726013440::0::1::::CombatAction<>Resource<>::
 icon.svg::CompressedTexture2D::6987504868405090802::1722927230::1722927234::1::::<><>::
-battle_scene.tscn::PackedScene::6706600882585180147::1722974783::0::1::::<><>::uid://cusuasq7f1w8p::::res://Sprites/Characters(100x100)/Soldier/Soldier/Soldier.png
-::res://Scenes/::1722927624
-character.tscn::PackedScene::4471155673671257195::1722974827::0::1::::<><>::uid://cusuasq7f1w8p::::res://Sprites/Characters(100x100)/Soldier/Soldier/Soldier.png
-::res://Scripts/::1722927619
+::res://Combat Actions/::1726017060
+heal.tres::Resource/CombatAction::390978446697656830::1726013440::0::1::::<><>::res://combat_actions.gd
+slash.tres::Resource/CombatAction::559567675346549315::1726013440::0::1::::<><>::res://combat_actions.gd
+stomp.tres::Resource/CombatAction::644188838105250003::1726013440::0::1::::<><>::res://combat_actions.gd
+walk.jpg::CompressedTexture2D::6716635779864812621::1726017060::1726017061::1::::<><>::
+::res://Frames/::1726014585
+skeleton.tres::SpriteFrames::3629680194784475609::1726014585::0::1::::<><>::uid://cxqj111bjjvlk::::res://Sprites/Characters(100x100)/Skeleton/Skeleton/Skeleton-Attack01.png<>uid://liyxe3xmdo7::::res://Sprites/Characters(100x100)/Skeleton/Skeleton/Skeleton-Death.png<>uid://bonlfisfv8pf::::res://Sprites/Characters(100x100)/Skeleton/Skeleton/Skeleton-Hurt.png<>uid://dqg2mq8vqt5rc::::res://Sprites/Characters(100x100)/Skeleton/Skeleton/Skeleton-Idle.png
+soldier.tres::SpriteFrames::782960220641605019::1726013496::0::1::::<><>::uid://4r81n4kmfqby::::res://Sprites/Characters(100x100)/Soldier/Soldier/Soldier-Attack02.png<>uid://celqxeniqaib8::::res://Sprites/Characters(100x100)/Soldier/Soldier/Soldier-Death.png<>uid://dqeven1ffbf45::::res://Sprites/Characters(100x100)/Soldier/Soldier/Soldier-Attack03.png<>uid://jy6svl3vn68::::res://Sprites/Characters(100x100)/Soldier/Soldier/Soldier-Hurt.png<>uid://bscia5jfsd60c::::res://Sprites/Characters(100x100)/Soldier/Soldier/Soldier-Attack01.png<>uid://cusuasq7f1w8p::::res://Sprites/Characters(100x100)/Soldier/Soldier/Soldier.png<>uid://c7ofxjh2jsomy::::res://Sprites/Characters(100x100)/Soldier/Soldier/Soldier-Walk.png
+::res://Scenes/::1726016862
+battle_scene.tscn::PackedScene::6706600882585180147::1726016862::0::1::::<><>::uid://b4x4jsqxkxnhr::::res://Scenes/character.tscn<>res://Scripts/TurnManager.gd<>uid://h8b86r4bf268::::res://Combat Actions/slash.tres<>uid://bryikjxwto6b2::::res://Frames/skeleton.tres<>uid://ftnmfyxh3ix7::::res://Combat Actions/heal.tres<>uid://jgbxwvn5rflb::::res://Combat Actions/stomp.tres<>res://Scripts/PlayerUI.gd<>res://Scripts/combatActionButton.gd
+character.tscn::PackedScene::4471155673671257195::1726016862::0::1::::<><>::res://Scripts/character.gd<>uid://lfjif7lmmuch::::res://Frames/soldier.tres<>uid://c6s2gjbstm0s1::::res://icon.svg<>res://Scripts/Button.gd
+::res://Scripts/::1726016830
+Button.gd::GDScript::-1::1722977288::0::1::::<>Button<>::
+character.gd::GDScript::-1::1726016830::0::1::::Character<>Node2D<>::
+combatActionButton.gd::GDScript::-1::1724235311::0::1::::<>Button<>::
+PlayerUI.gd::GDScript::-1::1724235821::0::1::::<>VBoxContainer<>::
+TurnManager.gd::GDScript::-1::1724236035::0::1::::<>Node<>::
 ::res://Sprites/::1722929469
 ::res://Sprites/Arrow(Projectile)/::1722973556
 Arrow01(32x32).png::CompressedTexture2D::6062367079214582788::1722929469::1722973556::1::::<><>::

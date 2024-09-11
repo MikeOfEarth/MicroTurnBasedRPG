@@ -1,5 +1,9 @@
-res://battle_scene.tscn
+res://Scenes/battle_scene.tscn
+res://Frames/soldier.tres
+res://Frames/skeleton.tres
 res://Scenes/character.tscn
 res://Scripts/character.gd
-res://Scenes/battle_scene.tscn
-res://Scripts/Button.gd
+res://Combat Actions/slash.tres
+res://Combat Actions/heal.tres
+res://Combat Actions/stomp.tres
+res://combat_actions.gd

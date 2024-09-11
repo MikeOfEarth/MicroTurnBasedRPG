@@ -1,4 +1,9 @@
+TextureRect
+Control
+GPUParticles2D
+CPUParticles2D
 Button
+VBoxContainer
 Camera2D
 Label
 ProgressBar
